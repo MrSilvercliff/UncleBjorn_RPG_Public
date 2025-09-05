@@ -1,6 +1,6 @@
 # Небольшая история
 
-[[Корневой README](https://github.com/MrSilvercliff/UncleBjorn_RPG_Public/blob/main/README.md)]
+[Корневой README](https://github.com/MrSilvercliff/UncleBjorn_RPG_Public/blob/main/README.md)
 
 Проект начинался как совместное приключение со стримером [UncleBjorn](https://www.twitch.tv/unclebjorn). Все шло довольно неплохо, мы набрали ребят из чата в команду и занимались проектом в свободное время, но разработка шла довольно медленно (как раз потому что занимались им в свободное время, а не фуллтайм), Бьерна это задушило, и он ушел с проекта. К Бьерну никаких претензий не было, разошлись миром, команда продолжила работу без его участия. 
 
@@ -19,5 +19,6 @@
 
 P.S. Бьерн **ОЧЕНЬ** любит World of Warcraft, поэтому очень сильно опирался на него. После его ухода мы решили не отходить от этого.
 
-[[Корневой README](https://github.com/MrSilvercliff/UncleBjorn_RPG_Public/blob/main/README.md)]
+[Корневой README](https://github.com/MrSilvercliff/UncleBjorn_RPG_Public/blob/main/README.md)
+
 [Структура файлов проекта](https://github.com/MrSilvercliff/UncleBjorn_RPG_Public/blob/main/wiki/files-structure.md)
