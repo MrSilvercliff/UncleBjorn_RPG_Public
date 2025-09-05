@@ -1,0 +1,30 @@
+[
+	{
+		"Key":"COMMON/TURN_ON_SHORT",
+		"Value":"Enabled"
+	},
+	{
+		"Key":"COMMON/TURN_OFF_SHORT",
+		"Value":"Disabled"
+	},
+	{
+		"Key":"LANGUAGES/ENGLISH",
+		"Value":"English"
+	},
+	{
+		"Key":"LANGUAGES/RUSSIAN",
+		"Value":"Russian"
+	},
+	{
+		"Key":"BUTTONS/PLAY_TEST",
+		"Value":"To main scene"
+	},
+	{
+		"Key":"BUTTONS/NEW_GAME",
+		"Value":"New game"
+	},
+	{
+		"Key":"BUTTONS/QUIT",
+		"Value":"Quit"
+	}
+]

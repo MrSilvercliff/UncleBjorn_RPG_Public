@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d63454d0b5f06c4b841c6fb629d0be5, type: 3}
+  m_Name: ProjectBalanceConfig_DEV
+  m_EditorClassIdentifier: 
+  _balanceFile: {fileID: 4900000, guid: b8e7b4a66db85cd4896ed54e044bf8d3, type: 3}
+  _googleSheetId: 1CYCDAToJfewMkyis1F3QbSo1ogJ8vkz2nvR0Ay7EjfY
+  _googleSheetPages:
+  - _pageName: StartProfile
+    _targetBalanceStorage: {fileID: 0}
+    _debugPrintOnInit: 0
+  - _pageName: Creatures
+    _targetBalanceStorage: {fileID: 11500000, guid: 4151827a8ea12004d97b1f94a693256d,
+      type: 3}
+    _debugPrintOnInit: 0
+  - _pageName: Abilities
+    _targetBalanceStorage: {fileID: 11500000, guid: 563e92b8c713b9446af0141e2b5e4347,
+      type: 3}
+    _debugPrintOnInit: 0
+  - _pageName: InteractableObjectsConfig
+    _targetBalanceStorage: {fileID: 11500000, guid: 30da3cff19aa69341b4d7a9a1bdc2702,
+      type: 3}
+    _debugPrintOnInit: 0

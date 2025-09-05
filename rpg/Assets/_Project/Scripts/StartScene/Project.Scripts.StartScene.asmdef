@@ -1,0 +1,22 @@
+{
+    "name": "Project.Scripts.StartScene",
+    "rootNamespace": "",
+    "references": [
+        "Project.Scripts.Project",
+        "Zenject",
+        "ZerglingUnityPlugins",
+        "Unity.TextMeshPro",
+        "NaughtyAttributes.Core",
+        "JSONObject",
+        "Demigiant"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
