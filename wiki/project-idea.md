@@ -18,3 +18,6 @@
 - Обилие славянского и европейского фэнтези
 
 P.S. Бьерн **ОЧЕНЬ** любит World of Warcraft, поэтому очень сильно опирался на него. После его ухода мы решили не отходить от этого.
+
+[[Корневой README](https://github.com/MrSilvercliff/UncleBjorn_RPG_Public/blob/main/README.md)]
+[Структура файлов проекта](https://github.com/MrSilvercliff/UncleBjorn_RPG_Public/blob/main/wiki/files-structure.md)
